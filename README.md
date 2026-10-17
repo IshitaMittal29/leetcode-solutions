@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
