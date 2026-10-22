@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -108,4 +109,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
