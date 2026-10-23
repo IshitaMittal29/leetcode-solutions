@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
