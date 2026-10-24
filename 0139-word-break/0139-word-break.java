@@ -8,7 +8,6 @@ class Solution {
         int n = s.length();
         boolean[] dp = new boolean[n + 1];
 
-        // Empty string can always be segmented
         dp[0] = true;
 
         for (int i = 1; i <= n; i++) {
