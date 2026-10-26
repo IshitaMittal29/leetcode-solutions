@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
