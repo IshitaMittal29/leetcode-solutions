@@ -4,7 +4,6 @@ class Solution {
         int n = nums.length;
         int[] dp = new int[n];
 
-        // Every element alone forms a subsequence of length 1
         for (int i = 0; i < n; i++) {
             dp[i] = 1;
         }
