@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
