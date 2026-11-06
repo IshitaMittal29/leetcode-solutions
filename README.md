@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
