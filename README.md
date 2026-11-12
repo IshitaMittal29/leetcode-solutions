@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
