@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
