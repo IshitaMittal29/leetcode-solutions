@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -171,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Trie
 |  |
 | ------- |
@@ -270,4 +276,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
