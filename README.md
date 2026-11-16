@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0990-satisfiability-of-equality-equations](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0990-satisfiability-of-equality-equations](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0990-satisfiability-of-equality-equations](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0990-satisfiability-of-equality-equations](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 ## Trie
 |  |
 | ------- |
