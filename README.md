@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0399-evaluate-division) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Tree
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/IshitaMittal29/leetcode-solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
